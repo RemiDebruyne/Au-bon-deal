@@ -2,7 +2,7 @@
 
 ## Table of content
 
-<li><a href="/README.md/"> Brief explanation</a> </li>
+<li><a href="#brief-explanation"> Brief explanation</a> </li>
 <li><a href="/doc/management-rules.md"> Management rules </a></li>
 <li><a href="#the-merise-methodology">MERISE methodology</a></li>
 <!-- <li><a href="">RBAC</a></li>  -->
