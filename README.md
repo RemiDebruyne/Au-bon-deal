@@ -1,4 +1,7 @@
-# Brief Création BDD PostgreSQL pour la plateforme e-commerce "AuBonDeal" 🚀
+
+
+# Brief Création d'une BDD <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> pour la plateforme e-commerce "AuBonDeal" 🚀
+
 
 ## Table of content
 
