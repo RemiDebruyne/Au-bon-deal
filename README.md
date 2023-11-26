@@ -9,6 +9,8 @@
 <li><a href="/database-arch/AuBonDeal.sql">Database</a></li>
 
 ## Brief explanation
+As a first note, the original brief is in french, which is why the title is french. However, I decided to deliver a repo redacted in english as I think this is both a good practice in the industry and a good exercise over all.
+
 For this brief, we were recquired to interpret an MCD and MLD into an MPD able to handle CRUD operations. The database must follow integrity constraints with a particular intention to performance. You can see both MCD and MLD used below :
 
 ### MCD
