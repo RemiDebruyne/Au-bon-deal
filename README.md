@@ -30,3 +30,16 @@ MERISE is an Information System Design and Development methodology widely used i
 - The life cycle consists of (long range) planning, initial study, detailed study, implementation, launching and maintenance.
 
 A system of tools has been defined to support these cycles.
+
+
+## What I would like to improve on
+
+- Better management rules
+- Make an RBAC
+    - Tailor roles and permissions in a security oriented way
+- Make sure I handled security properly for password
+    - pgcrypto is installed and *should* be able crypt password when entered in the database
+- Make sure the integrity is handled properly for :
+    - product_price
+    - product_quantity
+- Implement a audit logs
